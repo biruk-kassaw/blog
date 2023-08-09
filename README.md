@@ -4,7 +4,7 @@ This is a next js blog application
 
 Creating Blogs
 
-Editing Blogs
+Editing Blogs 
 
 Seeing detail of blogs
 
