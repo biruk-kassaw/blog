@@ -1,3 +1,5 @@
+#Blogger
+
 This is a next js blog application
 
 ## Features
